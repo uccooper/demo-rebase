@@ -4,3 +4,7 @@ Changes in the GitHub
 another changes in the GitHub
 Local changes
 Second changes
+<<<<<<< HEAD
+=======
+Third changes
+>>>>>>> a1256b5 (3-rd local changes)
